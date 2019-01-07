@@ -4,8 +4,11 @@ div{
     height: 100px;
 }
 p{
+    width: 100px;
+    height: 100px;
     background: lime;
     color: blue;
+<<<<<<< HEAD
     cursor: pointer;
 }
 
@@ -14,4 +17,12 @@ span{
     width: 100px;
     height: 100px;
     color: red;
+=======
+}
+input{
+    user-select: none;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+>>>>>>> dev1
 }
